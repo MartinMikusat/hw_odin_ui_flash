@@ -4,7 +4,9 @@ A renderer-independent Odin package for selecting visible interface targets with
 
 ## AI-assisted development disclosure
 
-**This project was built using GPT-5.**
+Models used:
+
+- **GPT-5.6-Sol**
 
 ## Behavior
 
