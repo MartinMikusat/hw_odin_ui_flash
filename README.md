@@ -70,5 +70,5 @@ The application owns action payloads and maps each returned `Target_ID` to one p
 ## Verification
 
 ```sh
-odin test .
+hw-odin test .
 ```
