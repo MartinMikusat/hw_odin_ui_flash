@@ -2,12 +2,6 @@
 
 A renderer-independent Odin package for selecting visible interface targets with compact keyboard mnemonics.
 
-## AI-assisted development disclosure
-
-Models used:
-
-- **GPT-5.6-Sol**
-
 ## Behavior
 
 An application supplies each visible target with an opaque identifier, a functional label, a rectangle, and a badge anchor. The package normalizes each label to lowercase ASCII letters and digits. It removes spaces, punctuation, and non-ASCII characters.
